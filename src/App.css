@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+li:hover{
+    text-decoration: none !important;
+    color: black;
+}
+.btn{
+    background-color: white;
+}
+
+.slick-arrow{
+    display: none !important;
+    background-color: orange;
+    color: #000;
+}
+
+
+
+

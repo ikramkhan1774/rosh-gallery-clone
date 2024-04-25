@@ -1,0 +1,80 @@
+
+.main{
+    height: 1220px;
+    background-color: #f3f3f3;
+}
+.firstdiv{
+    padding-right: 10px;
+}
+.maindiv{
+    padding-top: 30px;
+    margin-top: 40px;
+    width: max-content;
+    display: flex;
+    
+}
+.firstimg{
+
+    margin-left: 170px;
+    height: 600px;  
+}
+
+
+.thirdiv{
+
+    overflow: hidden;
+    width: 830px !important;
+    height: 1100px; 
+    
+}
+
+.secimg{
+    margin-left: 170px;
+    width: 450px;
+    height: 500px;
+}
+.collection1{
+    display: flex;
+    justify-content: center;
+}
+
+.item{
+    overflow: hidden;
+    width: 437px !important;
+    height: 585px !important;
+    padding-left: 10px;
+    
+}
+
+.imga1{
+    
+    width: 100%;
+    /* width: 480px !important;
+    height: 520px !important; */
+    position: relative;
+    top: -60px;
+    /* overflow: hidden; */
+}
+
+.zoom{
+
+    transition-duration: 0.3s
+    
+}
+
+.zoom:hover {
+     transform: scale(1.05);
+     cursor: pointer;
+  
+  }
+
+  .input-emails{
+    text-align: center;
+  }
+
+  .sto{
+    margin-top: -30px;
+    color: black;
+  }
+
+
